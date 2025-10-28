@@ -7,13 +7,11 @@ description: Students will examine several forms of media in this course, includ
 file: /courses/cms-100-introduction-to-media-studies-fall-2014/6aa0a4b169532c1cb2d9faf295cc6a37_cms-100f14-th.jpg
 file_size: 8297
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Students will examine several forms of media in this course, including
     music and television. This course looks at the functions of media and its cultural
-    impact on our daily lives. (Image courtesy of [Eugenia Loli](https://flic.kr/p/eXMWLy)
-    on flickr. License CC BY.)
+    impact on our daily lives. (Image courtesy of {{% resource_link "d1e5dc57-8b3f-4559-b1fe-aa08ed7c22b4"
+    "Eugenia Loli" %}} on flickr. License CC BY.)
   credit: Image courtesy of Eugenia Loli on flickr. License CC BY.
   image-alt: A collage showing a woman lying on a television / record player hybrid
     in outer space.

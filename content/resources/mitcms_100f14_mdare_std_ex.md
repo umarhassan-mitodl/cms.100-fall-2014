@@ -4,8 +4,6 @@ description: This resource contains information related to media research paper.
 file: /courses/cms-100-introduction-to-media-studies-fall-2014/a2becd27a445bb44b0a22e6ed4deadd8_MITCMS_100F14_MdaRe_Std_Ex.pdf
 file_size: 314264
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

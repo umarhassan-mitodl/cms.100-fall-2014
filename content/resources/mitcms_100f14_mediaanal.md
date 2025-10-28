@@ -4,8 +4,6 @@ description: This resource contains information related to media analysis.
 file: /courses/cms-100-introduction-to-media-studies-fall-2014/d093f7eee087177518fbce59bfb4ef44_MITCMS_100F14_MediaAnal.pdf
 file_size: 90815
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

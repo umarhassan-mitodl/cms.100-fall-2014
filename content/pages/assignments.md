@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains details about course assignments and the research
   paper, and examples of student work.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
